@@ -1,0 +1,3 @@
+[submodule "protected/x2ts"]
+	path = protected/x2ts
+	url = git@github.com:SyuTingSong/x2ts.git
